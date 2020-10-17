@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo-gobarber-purple" src=""></p>
+    <p align="center"><img alt="logo-gobarber-purple" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/logo-gobarber-purple.svg"></p>
     <p align="center">Beauty service scheduling application</p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/gobarber-old">
@@ -10,16 +10,16 @@
       <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/gobarber-old">
     </p>
     <p align="center">
-      <img alt="gobarber-web" src="" style="max-width:100%;">
+      <img alt="gobarber-web" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/gobarber-web.png" style="max-width:100%;">
     </p>
     <h2>:speech_balloon: Project</h2>
     <p>GoBarber is an application that allows appointments for beauty services. This project was developed at the <a href="https://rocketseat.com.br/bootcamp" rel="nofollow">GoStack
-        Bootcamp</a>, which is a complete application (backend, frontend and mobile).</p>
+        Bootcamp</a> - old journey, which is a complete application (backend, frontend and mobile).</p>
     <h2>:rocket: Technologies</h2>
     <ul>
       <li><a href="https://nodejs.org/" rel="nofollow">Node.js</a></li>
       <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>
-      <li><a href="https://reactnative.dev/" rel="nofollow">React Native</a></li>
+      <li><a href="https://reactnative.dev/" rel="nofollow"><s>React Native</s></a></li>
     </ul>
     <h2>:bookmark: Layout</h2>
     <p>You can view the layout of the project in the <a href="https://www.figma.com/file/U57uzB0AN2Q00TFKffY7Pt/GoBarberOld" rel="nofollow">web</a> version. You need to have a <a href="https://www.figma.com/" rel="nofollow">Figma</a> account to access it.</p>
@@ -65,7 +65,7 @@ $ yarn start <br/>
     <h4>:iphone: Mobile</h4>
     <p>-</p>
     <h2>:pencil: License</h2>
-    <p>This project is under the MIT license. See the <a href="" rel="nofollow">LICENSE</a> for more information.</p>
+    <p>This project is under the MIT license. See the <a href="https://github.com/gisabernardess/gobarber-old/blob/main/LICENSE" rel="nofollow">LICENSE</a> for more information.</p>
     <hr>
     <p>Made with ♥ by Gisele Silva :wave: <a href="https://www.linkedin.com/in/gisabernardess/" rel="nofollow">Get in touch!</a></p>
   </article>

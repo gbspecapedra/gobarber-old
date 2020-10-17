@@ -14,7 +14,7 @@
     </p>
     <h2>:speech_balloon: Project</h2>
     <p>GoBarber is an application that allows appointments for beauty services. This project was developed at the <a href="https://rocketseat.com.br/bootcamp" rel="nofollow">GoStack
-        Bootcamp</a> - old journey, which is a complete application (backend, frontend and mobile).</p>
+        Bootcamp</a> - old journey, which is a complete application (backend, frontend and <s>mobile</s>). <b>[unfinished]</b></p>
     <h2>:rocket: Technologies</h2>
     <ul>
       <li><a href="https://nodejs.org/" rel="nofollow">Node.js</a></li>

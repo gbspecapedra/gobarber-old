@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo-gobarber-purple" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/logo-gobarber-purple.svg"></p>
+    <p align="center"><img alt="logo-gobarber-purple" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/logo-gobarber-purple.svg" width="100px"></p>
     <p align="center">Beauty service scheduling application</p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/gobarber-old">
@@ -10,7 +10,7 @@
       <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/gobarber-old">
     </p>
     <p align="center">
-      <img alt="gobarber-web" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/gobarber-web.png" style="max-width:100%;">
+      <img alt="gobarber-web" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/gobarber-web.png">
     </p>
     <h2>:speech_balloon: Project</h2>
     <p>GoBarber is an application that allows appointments for beauty services. This project was developed at the <a href="https://rocketseat.com.br/bootcamp" rel="nofollow">GoStack

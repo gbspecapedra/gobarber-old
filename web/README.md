@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo-gobarber-purple" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/logo-gobarber-purple.svg"></p>
+    <p align="center"><img alt="logo-gobarber-purple" src="https://github.com/gisabernardess/gobarber-old/blob/main/.github/logo-gobarber-purple.svg" width="100px"></p>
     <h2>:rocket: Technologies </h2>
     <p>Client-side was developed with the following technologies:</p>
     <ul>
